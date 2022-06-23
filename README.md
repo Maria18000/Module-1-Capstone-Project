@@ -7,7 +7,7 @@
   This website is for Ark Travellers, a company which organizes trips. 
 
 ## Live Demo
-  [@Live Demo](https://maria18000.github.io/Module-1-Capstone-Project/)
+  [Live Demo](https://maria18000.github.io/Module-1-Capstone-Project/)
 
 ## Built With
 
@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-- GitHub: [@githubhandle](https://github.com/Maria18000)
+- GitHub: [Maria18000](https://github.com/Maria18000)
 
 ## 🤝 Contributing
 
