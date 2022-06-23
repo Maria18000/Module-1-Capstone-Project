@@ -55,7 +55,7 @@ const speakerArray = [
 
 const cardss = document.querySelector('.speaker-container');
 speakerArray.forEach((c) => {
-  const card = document.createElement('div');
+  const card = document.createElement('article');
 
   card.innerHTML = (`
   <div class="speaker-main">

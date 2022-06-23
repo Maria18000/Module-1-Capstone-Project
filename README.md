@@ -26,8 +26,6 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 - GitHub: [@githubhandle](https://github.com/Maria18000)
-- Cindy Shin: [@behanceHandle](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-
 
 ## 🤝 Contributing
 
@@ -40,8 +38,8 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
 A template designed by Cindy Shin was followed in this project. 
+Her Behance handle is [@behance] (https://www.behance.net/adagio07)
 
 ## 📝 License
 
